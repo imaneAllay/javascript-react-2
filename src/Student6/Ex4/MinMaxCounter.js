@@ -34,3 +34,7 @@ export const MinMaxCounter  =()=>{
     )
 }
 //update Ex4
+
+// up and down counter
+// we want to store the max value and the min value
+//2 states 1 for the min and the other for the max
